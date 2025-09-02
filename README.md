@@ -1,10 +1,11 @@
 # Ayush Karnawat
 
-```
+```bash
 $ whoami
+> Ayush Karnawat
 > AI Engineer × Data Scientist × Digital Strategist
-> Building intelligent systems that scale
-```
+> Designing intelligent systems that are scalable, impactful, and human-centric
+
 
 <div align="center">
 
