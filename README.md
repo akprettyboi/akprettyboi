@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--<!-- Animated Intro -->
+<!-- Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=00C2CB&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Ayush+Karnawat!;AI+%26+Data+Science+Engineer;Generative+AI+%7C+Cloud+%7C+Digital+Marketing+Analytics;Building+Projects+that+Scale+%26+Deliver+Impact" alt="Typing SVG" />
 </p>
@@ -20,9 +18,7 @@ strengths:
   - Deploying scalable cloud-first applications
   - Bridging the gap between data science & digital marketing
 philosophy: "I believe technology should be functional, scalable, and impactful."
-
 🚀 My Journey in Brief
-
 🔹 Academia → Pursuing B.Tech in AI & Data Science, consistently balancing academics (CGPA 8.6+) with applied projects & research.
 🔹 Researcher → Published IEEE paper on Mental Stress Detection in Nurses, leveraging Random Forest, GRU, KNN with multimodal data (achieved 95–99% accuracy).
 🔹 Industry Internships →
@@ -36,7 +32,6 @@ RCEHI: Conducted research in stress-level classification using biomedical data.
 
 🏆 Featured Projects
 🔹 FinSight – Mutual Fund Analytics & Recommender
-
 Tech Stack: Python · FastAPI · PostgreSQL · AWS (S3, EC2) · Selenium · Streamlit
 
 Automated 1,500+ mutual fund scheme analyses daily via APIs & scrapers.
@@ -46,7 +41,6 @@ Deployed REST APIs with <500ms latency, processing 100K+ records/month.
 Built CI/CD pipelines with GitHub Actions for seamless deployment.
 
 🔹 ReelSense – Serverless Movie Recommender
-
 Tech Stack: AWS Lambda · Flask · S3 · NLP (TF-IDF)
 
 Processes 1,000+ TMDB movies in real-time.
@@ -56,7 +50,6 @@ Sub-1s response recommendation engine, fully serverless on AWS Free Tier.
 Designed with 3 APIs → /recommend, /refresh, /top.
 
 🔹 AI Resume Optimizer
-
 Tech Stack: FastAPI · SQL · GPT-4 · NLP
 
 Customizes resumes to any job description.
@@ -66,7 +59,6 @@ Achieved 99% accurate resume parsing, reducing manual edits by 80%.
 Cloud APIs deliver results in <1s latency.
 
 🔹 IoT Swarm Robotics
-
 Tech Stack: Python · MQTT · ESP32 · Flask · PyTorch
 
 Multi-bot leader–follower system with path formation.
@@ -83,10 +75,10 @@ Backend & APIs	FastAPI, Flask, Node.js, REST APIs
 Cloud & DevOps	AWS (Lambda, S3, EC2), Azure, Docker, Kubernetes, CI/CD
 Digital Marketing	Google Ads, GA4, Keyword Planner, Power BI dashboards
 Other Tools	Selenium, BeautifulSoup, Streamlit, GitHub Actions
+
 📊 GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akprettyboi&show_icons=true&theme=radical" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=akprettyboi&theme=tokyonight" height="170" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=akprettyboi&theme=monokai&no-frame=true&row=1&column=6" /> </p>
 🏅 Achievements & Highlights
-
 📄 Published Research: Mental Stress Detection in Nurses – IEEE Conference (2024).
 
 💼 3+ Industry Internships → Digital Marketing, Robotics, Research.
