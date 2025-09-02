@@ -5,7 +5,7 @@ $ whoami
 > Ayush Karnawat
 > AI Engineer × Data Scientist × Digital Strategist
 > Designing intelligent systems that are scalable, impactful, and human-centric
-
+```
 
 <div align="center">
 
