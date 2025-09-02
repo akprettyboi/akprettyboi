@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-```yaml
+
 name: Ayush Karnawat
 title: AI & Data Science Engineer | Digital Marketing Analyst
 education: B.Tech AI & Data Science @ Vishwakarma University, Pune
@@ -91,4 +91,4 @@ Other Tools	Selenium, BeautifulSoup, Streamlit, GitHub Actions
 
 🌐 Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/ayush-karnawat"><img src="https://img.shields.io/badge/-Ayush%20Karnawat-blue?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:ayushkarnawat@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail" /></a> <a href="https://github.com/akprettyboi"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a> </p>
-<p align="center">✨ “I bridge AI research, scalable systems, and marketing analytics — because technology should empower businesses and people alike.” ✨</p> ```
+<p align="center">✨ “I bridge AI research, scalable systems, and marketing analytics — because technology should empower businesses and people alike.” ✨</p>
