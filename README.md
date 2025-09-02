@@ -1,11 +1,10 @@
 # Ayush Karnawat
 
-```bash
-$ whoami
-> Ayush Karnawat
-> AI Engineer × Data Scientist × Digital Strategist
-> Designing intelligent systems that are scalable, impactful, and human-centric
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=$+whoami;Ayush+Karnawat;AI+Engineer+×+Data+Scientist+×+Digital+Strategist;Designing+Systems+That+Scale+%7C+Impact+%7C+Empower" alt="Typing SVG" />
+</p>
+
+
 
 <div align="center">
 
