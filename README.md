@@ -27,33 +27,36 @@ $ whoami
 
 ## ⚡ What I Build
 
+<div align="center">
+
+## 💫 What I Craft
+
+</div>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
-### 🚀 **Production Systems**
-```python
-# Current stack
-frameworks = ["FastAPI", "PyTorch", "AWS"]
-specialty = "sub-second APIs at scale"
-impact = "100K+ records/month processed"
-```
+🚀
+### **Production Systems**
+*FastAPI • PyTorch • AWS*
+<br>
+`sub-second APIs` • `100K+ records/month`
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
-### 🧠 **AI Solutions**
-```javascript
-const expertise = {
-  ml: ["NLP", "Computer Vision", "GANs"],
-  deployment: ["Lambda", "Docker", "K8s"],
-  specialty: "Research → Production"
-}
-```
+🧠
+### **AI Solutions** 
+*NLP • Computer Vision • GANs*
+<br>
+`Research → Production` • `Serverless Scale`
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
