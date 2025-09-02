@@ -1,16 +1,8 @@
 # Ayush Karnawat
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Ayush+Karnawat;AI+Engineer+×+Data+Scientist+×+Digital+Strategist;Designing+Systems+That+Scale+%7C+Impact+%7C+Empower" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=AI+Engineer+×+Data+Scientist+×+Google+Data+Strategist;Designing+Systems+That+Scale+%7C+Impact+%7C+Empower" alt="Typing SVG" />
 </p>
-
-
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Transforming+data+into+decisions;Scaling+AI+from+prototype+to+production;Where+machine+learning+meets+marketing)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
